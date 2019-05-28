@@ -1,7 +1,7 @@
 # [Sampling of graph signals via randomized local aggregations](https://ieeexplore.ieee.org/abstract/document/8457237/)
 
 BibTex reference:
-
+```
 @ARTICLE{Valsesia2019Sampling,
 author={Diego {Valsesia} and Giulia {Fracastoro} and Enrico {Magli}},
 journal={IEEE Transactions on Signal and Information Processing over Networks},
@@ -14,6 +14,7 @@ keywords={Signal processing;Compressed sensing;Stability analysis;Transforms;Inf
 doi={10.1109/TSIPN.2018.2869354},
 ISSN={2373-776X},
 month={June},}
+```
 
 # Requirements
 
